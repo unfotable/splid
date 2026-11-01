@@ -1,12 +1,11 @@
 <div align="center">
 
-# `// SPLID`
+# `SPLID`
 ### **S**equential **P**ayload & **I**ndividual **D**ispatcher
 
 [![GitHub Repo](https://img.shields.io/badge/REPO-unfotable%2Fsplid-000000?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/unfotable/splid)
 [![Status](https://img.shields.io/badge/SYSTEM-ONLINE-000000?style=for-the-badge&labelColor=0a0a0a&color=00FF66)]()
 [![UI Theme](https://img.shields.io/badge/THEME-MONOSPACE_CLI-000000?style=for-the-badge&labelColor=0a0a0a&color=FFB000)]()
-[![License](https://img.shields.io/badge/LICENSE-MIT-000000?style=for-the-badge&labelColor=0a0a0a&color=ffffff)](./LICENSE)
 
 <p align="center">
   <b>A terminal-inspired web utility for splitting bulk email payloads into throttled, one-by-one individual dispatches from a single SMTP source—complete with live execution logs and persistent transmission history.</b>
