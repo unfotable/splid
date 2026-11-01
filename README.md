@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src=""C:\Users\devan\Downloads\dabc63ae-10ca-4c97-8836-666fa82372e8.png"" alt="SPLID expense tracking preview" width="100%">
+  <img src=""C:\Users\devan\Downloads\dabc63ae-10ca-4c97-8836-666fa82372e8.png"">
 </p>
 
 ---
